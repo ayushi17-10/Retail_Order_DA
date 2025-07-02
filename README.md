@@ -19,8 +19,7 @@ RetailOrdersProject/
 │
 └── README.md
 🛠️ Tools & Technologies
-SQL Server / MySQL / PostgreSQL (depending on your DB)
-
+SQL Server 
 Python 3.10+
 
 pandas
