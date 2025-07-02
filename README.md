@@ -1,7 +1,7 @@
 # Retail_Order_DA
 🛒 Retail Orders Analysis Project
 📌 Overview
-This project focuses on analyzing and visualizing retail orders using SQL for data cleaning and querying, and Python (Pandas, Matplotlib, Seaborn) for data manipulation and visualization. The goal is to extract meaningful insights from the raw order data to support business decision-making in a retail environment.
+This project focuses on analyzing and visualizing retail orders using SQL for data cleaning and querying, and Python (Pandas, Kaggle, Sqlalchemy) for data manipulation . The goal is to extract meaningful insights from the raw order data to support business decision-making in a retail environment.
 
 🗂️ Project Structure
 kotlin
